@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Test Project 1",
+        "Details": "test project details 1",
+        "Total Target": 2000.0,
+        "Start Date": "2024-12-1",
+        "End Date": "2025-12-1",
+        "Project Owner": "01011339798"
+    },
+    {
+        "Title": "Python Project",
+        "Details": "Lab2 Big Project",
+        "Total Target": 200000.0,
+        "Start Date": "2025-3-5",
+        "End Date": "2025-3-9",
+        "Project Owner": "01012131415"
+    },
+    {
+        "Title": "Bash Project",
+        "Details": "DB Engine",
+        "Total Target": 50000000.0,
+        "Start Date": "2025-2-28",
+        "End Date": "2025-3-15",
+        "Project Owner": "01012131415"
+    }
+]
